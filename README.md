@@ -38,16 +38,8 @@ python detectwros.py --weights {your weights file} --conf 0.50 --source 0 # webc
 Attach the servos to camera module
   you can buy one from [here](https://www.amazon.in/Techtonics-bracket-camera-platform-2-Axis/dp/B08GG75JD2/ref=asc_df_B08GG75JD2/?tag=googleshopdes-21&linkCode=df0&hvadid=397082759516&hvpos=&hvnetw=g&hvrand=1244238866930319523&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007740&hvtargid=pla-1225842568200&psc=1&ext_vrnc=hi)
 
-```bash
-python train.py --data coco.yaml --cfg yolov5n.yaml --weights '' --batch-size 128
-                                       yolov5s                                64
-                                       yolov5m                                40
-                                       yolov5l                                24
-                                       yolov5x                                16
-```
-
-<img width="800" src="https://user-images.githubusercontent.com/26833433/90222759-949d8800-ddc1-11ea-9fa1-1c97eed2b963.png">
-
+Upload the aim-servo arduino code
+  and you're good to go
 </details>
 
 
