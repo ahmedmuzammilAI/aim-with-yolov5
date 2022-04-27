@@ -4,7 +4,6 @@
 
 <details open>
 <summary>Install</summary>
-<details>
 
 Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) in a
 [**Python>=3.7.0**](https://www.python.org/) environment, including
@@ -20,10 +19,8 @@ cd yolov5
 pip install -r requirements.txt 
 ```
 
-</details>
 
-
-<details>
+<details open>
 <summary>Run using</summary>
 
 ```bash
@@ -34,7 +31,7 @@ python detectwros.py --weights {your weights file} --conf 0.50 --source 0 # webc
 
 </details>
 
-<details>
+<details open>
 <summary>Arduino setup</summary>
 
 Attach the servos to camera module
