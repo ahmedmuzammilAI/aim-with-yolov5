@@ -15,7 +15,7 @@ Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/
 
 ```bash
 git clone https://github.com/ahmedmuzammilAI/aim-with-yolov5 
-cd yolov5
+cd aim-with-yolov5
 pip install -r requirements.txt 
 ```
 
