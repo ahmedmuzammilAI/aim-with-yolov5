@@ -14,7 +14,7 @@ Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/
 
 
 ```bash
-git clone https://github.com/ahmedmuzammilAI/aim-with-yolov5 
+git clone https://github.com/ahmedmuzammilAI/realtime-object-tracking-system
 cd aim-with-yolov5
 pip install -r requirements.txt 
 ```
